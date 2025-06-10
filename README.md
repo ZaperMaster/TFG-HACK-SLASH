@@ -30,6 +30,7 @@ HACK SLASH 2D es un juego de tipo Hack and Slash desarrollado en Unity. El objet
 
 ## 🧪 Cómo ejecutar el proyecto
 
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/usuario/repositorio.git
+1. Descargar TFG-HACK-SLASH.rar
+2. Descomprimir
+3. Ejecutar .exe
+
