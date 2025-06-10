@@ -1,6 +1,6 @@
 # 🕹️ HACK SLASH 2D
 
-Proyecto desarrollado en Unity como parte del TFG / práctica / proyecto personal.
+Proyecto desarrollado en Unity como parte del TFG.
 
 ## 📦 Descripción
 
